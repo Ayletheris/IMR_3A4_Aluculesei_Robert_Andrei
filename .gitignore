@@ -1,0 +1,34 @@
+# Unity generates these folders locally, for both homework and bonus projects.
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+**/QCAR/
+**/.vs/
+**/.idea/
+**/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.apk
+*.aab
+*.unitypackage
+*.tgz
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# Backup and conflict files.
+*.backup
+*.orig
